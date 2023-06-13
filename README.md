@@ -5,7 +5,7 @@ I'm Mahmoud Yaman Seraj Alddin, a passionate and dedicated software engineering 
 
 ## About Me
 
-- 🎓 Currently pursuing my degree in Software Engineering.
+- 🎓 Currently pursuing my degree in Computer Science.
 - 💻 Proficient in Python, Spring Framework, C++, TypeScript, React Native, and PyQt5.
 - 🌐 Experienced in web development, mobile app development, and desktop application development.
 - 🔍 Constantly curious and eager to learn about the latest technologies and industry trends.
