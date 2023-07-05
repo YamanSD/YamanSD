@@ -25,7 +25,7 @@ I'm Yaman Seraj Alddin, a passionate and dedicated software engineering student 
 ## About Me
 
 - 🎓 Currently pursuing my degree in Computer Science.
-- 💻 Proficient in Python, Spring Framework, C++, TypeScript, React Native, and PyQt5.
+- 💻 Proficient in the above programming languages & technologies.
 - 🌐 Experienced in web development, mobile app development, and desktop application development.
 - 🔍 Constantly curious and eager to learn about the latest technologies and industry trends.
 - 🌱 Actively seeking opportunities to apply and enhance my skills.
