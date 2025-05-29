@@ -39,7 +39,8 @@ I'm Yaman Seraj Alddin, a passionate and dedicated senior software engineering s
   <img src="https://profile-counter.glitch.me/yamansd/count.svg" />
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yamansd&repo=Dexter)](https://github.com/yamansd/Dexter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yamansd&repo=Dexter&theme=dark)](https://github.com/yamansd/Dexter)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamansd&size_weight=0.6&count_weight=0.4&langs_count=6&layout=donut)](https://github.com/yamansd)
 
 
 ## About Me
