@@ -34,6 +34,12 @@ I'm Yaman Seraj Alddin, a passionate and dedicated senior software engineering s
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/yamansd/count.svg" />
+</p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yamansd&repo=Dexter)](https://github.com/yamansd/Dexter)
 
 
 ## About Me
