@@ -53,6 +53,16 @@ I'm a passionate and dedicated software engineer with a diverse range of skills 
   <img width="100%" height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yamansd&layout=compact&size_weight=0.6&count_weight=0.4&langs_count=8&card_width=320&theme=dark" />
 </a>
 
+## Notable projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yamansd&repo=BitcoinPredictor&theme=dark)](https://github.com/YamanSD/BitcoinPredictor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yamansd&repo=Ascii-pathfinder&theme=dark)](https://github.com/yamansd/Ascii-pathfinder)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yamansd&repo=dexter&theme=dark)](https://github.com/yamansd/dexter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yamansd&repo=buzz&theme=dark)](https://github.com/yamansd/buzz)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yamansd&repo=SortingVisualizer&theme=dark)](https://github.com/yamansd/SortingVisualizer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yamansd&repo=eformer&theme=dark)](https://github.com/yamansd/eformer)
+
+
 ## Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/mahmoud-yaman-seraj-alddin-749426278/) · [Codeforces](https://codeforces.com/profile/yury) · 📧 **mysd.real@gmail.com** 
